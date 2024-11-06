@@ -13,122 +13,122 @@ tl.fromTo('footer', {opacity: 0}, {opacity: 1, duration: 1});
 
 var links = [ //128
 
- 'https://psaudous.com/4/5894396',
+ 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
- 'https://psaudous.com/4/5894396',
+ 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
- 'https://psaudous.com/4/5894396',
+ 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
- 'https://psaudous.com/4/5894396',
+ 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
- 'https://psaudous.com/4/5894396',
+ 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
- 'https://teemooge.net/4/5908219',
+ 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
- 'https://teemooge.net/4/5908219',
+ 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
- 'https://teemooge.net/4/5908219',
+ 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
- 'https://teemooge.net/4/5908219',
+ 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
- 'https://teemooge.net/4/5908219',    'https://teemooge.net/4/5908219',
-'https://dolatiaschan.com/4/5897747',
-'https://augailou.com/4/5897748',
-'https://dolatiaschan.com/4/5897747',
-'https://augailou.com/4/5897748',
-'https://dolatiaschan.com/4/5897747',
-'https://augailou.com/4/5897748',
-'https://dolatiaschan.com/4/5897747',
-'https://augailou.com/4/5897748',
+ 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',    'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
   
-'https://psaudous.com/4/5894396',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
-'https://psaudous.com/4/5894396',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
-'https://psaudous.com/4/5894396',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
-'https://psaudous.com/4/5894396',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
-'https://psaudous.com/4/5894396',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
-'https://psaudous.com/4/5894396',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
-'https://psaudous.com/4/5894396',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
-'https://psaudous.com/4/5894396',
-'https://dolatiaschan.com/4/5897747',
-'https://augailou.com/4/5897748',
-'https://dolatiaschan.com/4/5897747',
-'https://augailou.com/4/5897748',
-'https://dolatiaschan.com/4/5897747',
-'https://augailou.com/4/5897748',
-'https://dolatiaschan.com/4/5897747',
-'https://augailou.com/4/5897748',
-'https://psaudous.com/4/5894396',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
-'https://psaudous.com/4/5894396',
-'https://v2.peddlr.io/?ref=-236718',
-'https://www.binance.com/en/fan-token/BWS/FCShakhtarFanverse/prediction?ref=396644725&registerChannel=fcshakhtar&match_id=a7ce9a24dec24abe98fe4b6e47a7ab4d&utm_source=fan-token', 
-'https://digital.dito.ph/promotion-rest-boot/4XpUj1w', 
-'https://www.binance.info/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_00ZU49VS4X',
-'https://invol.co/clhuqwb', 'https://www.maya.ph/app/registration?invite=PQ89ZZQLM98J',
-'https://adcash.myadcash.com/register?prmid=AKIVUBKUTT',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
     
 //socialmediasitespromotion
 
   //grab
-  'https://cdnnd.com/srv.html?id=5529117&pub=2556420', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
   //alibaba
-  'https://cdnnd.com/srv.html?id=5527801&pub=2556420', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
   //McDonald's 
-  'https://cdndn.com/srv.html?id=5528655&pub=2556420', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
   //uber
-  'https://cdnnd.com/srv.html?id=5529181&pub=2556420', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
   //bigo 
-  'https://cdnnd.com/srv.html?id=5522324&pub=2556420', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
   //bingo plus
-  'https://cdnnd.com/srv.html?id=5529069&pub=2556420', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
   //gc mart
-  'https://gb.gc-mart.com/z/3CPPMy', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
   //peddlr 
-  'https://v2.peddlr.io/?ref=-236718',
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
   //binance 
-  'https://www.binance.com/en/fan-token/BWS/FCShakhtarFanverse/prediction?ref=396644725&registerChannel=fcshakhtar&match_id=a7ce9a24dec24abe98fe4b6e47a7ab4d&utm_source=fan-token', 
-'https://www.binance.info/en/activity/referral-entry/CPA?fromActivityPage=true&ref=CPA_00ZU49VS4X',
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/fe4b6e47a7ab4d&utm_source=fan-token', 
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
   //dito telecom
-'https://digital.dito.ph/promotion-rest-boot/4XpUj1w', 
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
   //involve asia
-  'https://invol.co/clhuqwb', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
     //bybit-approved
-  'https://cdndn.com/srv.html?id=5528971&pub=2556420', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
   //alibaba
-  'https://cdndn.com/srv.html?id=5527801&pub=2556420', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
  
 //other advertisement 
- 'https://g.Cash-Ads.com/ptp/?code=kzVJrZxzTBTowh%2B60d%2F5hgf8dvlrXFuOjmzx%2BWZ2XE8%3D',  
-  'https://invol.co/clhuqwb', 
-'htpps://invite.ctnft.net/odjTVn',
-'https://app.stormgain.com/friend/BNS170698943', 
-  'https://Cash-Ads.com/?ref=LkfhZOx%2FsGjjMl96BJ517XwIRIHQCA6F9VLZpfpREyM%3D', 
-  'https://g.Cash-Ads.com/ptp/?code=4m9Vb0qEZ7r8UoCKJ2BKsfn6N39SC5z1WJszX2A8Luc%3D', 
-  'https://2captcha.com/for-customer/?from=17431836', 
-'https://2captcha.com/p/funcaptcha/?from=17431836', 
-'https://r.honeygain.me/ADSBO8137E',  
-'https://2captcha.com/?from=17431836', 
-'https://www.submithub.com/by/echozoneph', 
-'https://www.joingiveaways.com/miner.php?u=76561198869571841', 
-  'https://surfe.be/2369265', 
-  'https://surfe.be/ext/2369265',
-'https://freebitco.in/?r=51395402',
+ 'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',  
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',  
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
+'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/',
 
   //bybit-approved
-  'https://cdndn.com/srv.html?id=5528971&pub=2556420', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
   //alibaba
-  'https://cdndn.com/srv.html?id=5527801&pub=2556420', 
+  'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
 ]
 
 var ads1 = [ //167
-    'code here', 
+    'https://672b275e722f3df0ca7f3ae9--heartfelt-starlight-252080.netlify.app/', 
 ]
 
 var balance = 0;
